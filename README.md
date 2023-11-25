@@ -13,9 +13,11 @@
 [![Skype][skype-shield]][skype-url]
 [![Discord][discord-shield]][discord-url]
 
-This is puzzle game for hex pieces
+
 
 <div align="center">
+
+  <strong>This is puzzle game for hex pieces</strong>
   <img width="700" src="https://github.com/PhilipJohn82/HexPuzzle/assets/111518490/a6913cbc-34b5-4b2b-9cd1-7e7cf67cb368"/>
 </div>
 
